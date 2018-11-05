@@ -10,10 +10,11 @@ export mysql data structs to html table
 
 
 ## 用法
-1. 先打开·Export_MySql_data_structs_to_html_table.py·编辑好数据库配置
-2. 运行`python Export_MySql_data_structs_to_html_table.py`成功后，会在当前目录下生成·tables.html·文件
-3. 用浏览器打开·tables.html·文件，全选-复制
-4. 新建Excel表格和并打开，粘贴复制的内容
-5. 开打响应的Word文件，右键保留原格式粘贴，然后根据自己需要调整表格样式
+1. 先打开`Export_MySql_data_structs_to_html_table.py`编辑好数据库配置
+2. 运行`python Export_MySql_data_structs_to_html_table.py`成功后，会在当前目录下生成`tables.html`文件
+## 导入到Word
+1. 用浏览器打开`tables.html`文件，全选-复制
+2. 新建Excel表格和并打开，粘贴复制的内容
+3. 开打响应的Word文件，右键保留原格式粘贴，然后根据自己需要调整表格样式
 
 哈哈哈哈哈哈哈哈哈，更麻烦了
