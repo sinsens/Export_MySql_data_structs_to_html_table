@@ -1,7 +1,7 @@
 # python3导出mysql表结构到HTML文件
 export mysql data structs to html table
 
-魔改自：https://github.com/yanglikun/mysql2word-python,@yanglikun
+@yanglikun，魔改自：https://github.com/yanglikun/mysql2word-python
 
 不知道为什么我这里就用不来原作者的那个。。。
 所以自己就动手进行魔改了
